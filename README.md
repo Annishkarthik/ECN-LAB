@@ -42,7 +42,7 @@
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
  
  #Tabular column
- <img width="1600" height="1108" alt="image" src="https://github.com/user-attachments/assets/72be0446-23af-476d-8d49-bc1aae41a222" />
+ <img width="819" height="1280" alt="image" src="https://github.com/user-attachments/assets/1b5fcf81-59fd-486e-b63b-9dba8ff3f1a9" />
 
 
 **RESULT:**
